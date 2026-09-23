@@ -8,5 +8,6 @@ Investor pitch decks for Mizan Qist app ideas, served with GitHub Pages.
 | Meanwhile | `meanwhile/index.html` |
 | Mugshot | `mugshot/index.html` |
 | NoBuddy | `nobuddy/index.html` |
+| Out the Door | `out-the-door/index.html` |
 
 `index.html` at the root is the hub page. To update a deck, replace its `index.html`, then commit and push.
